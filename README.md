@@ -1,4 +1,4 @@
-# WebSite (Em andamento)
+# Blog (Em andamento)
 
 ## ✅Sobre o Projeto
 Criação de uma página com o intuito de compartilhar informações valiosas e inspiradoras sobre uma das culturas mais fascinantes do mundo: a cultura tailandesa.
